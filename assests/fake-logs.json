@@ -1,0 +1,7 @@
+{
+  "messages": [
+    "Alice: Hey, did anyone notice the subdomain leak?",
+    "Bob: Yeah, it might be part of the staging environment.",
+    "Charlie: I'll run a directory scan and see what turns up."
+  ]
+}
